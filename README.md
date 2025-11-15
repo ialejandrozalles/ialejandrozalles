@@ -69,6 +69,8 @@
 - 🔬 [Virtual Physics – Simulador interactivo en GitLab](https://gitlab.com/develop1895209/VirtualPhysics)
 - 📂 [Repositorios públicos en GitHub](https://github.com/ialejandrozalles?tab=repositories)
 - 👨‍🚀 Participante en el Hackathon NASA Space Apps La Paz 2023 – UPB
+- 👨‍🚀 Participante de voluntario el Hackathon NASA Space Apps La Paz 2025 – UMSA
+- 👨‍🚀 Participante en el CTF AGETIC La Paz 2025 – Ganando el Tercer lugar
 
 ---
 
